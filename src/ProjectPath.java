@@ -5,7 +5,7 @@ public class ProjectPath
 	{
 		String projectPath =System.getProperty("user.dir");
 		System.out.println(projectPath);
-		
+		System.out.println("Done");
 		
 		
 		
