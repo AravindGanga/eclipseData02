@@ -10,6 +10,9 @@ public class BrowserLaunch
 		WebDriver driver = new ChromeDriver();
 		driver.get("https://rbgtechnologies.  com/");
 		System.out.println("Done");
+		System.out.println("Done");
+		System.out.println("Done");
+		System.out.println("Done");
 	}
 
 }
