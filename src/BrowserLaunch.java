@@ -9,6 +9,7 @@ public class BrowserLaunch
 		System.setProperty("webdriver.chrome.driver","C:\\Users\\Aravind Ganga\\workspace\\BeForYourself\\WebDriver\\chromedriver.exe");
 		WebDriver driver = new ChromeDriver();
 		driver.get("https://rbgtechnologies.  com/");
+		System.out.println("Done");
 	}
 
 }
